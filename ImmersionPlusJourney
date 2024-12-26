@@ -1,0 +1,33 @@
+* mods
+#name;link;group;librairy
+#basics
+FabricAPI;https://cdn.modrinth.com/data/P7dR8mSH/versions/vMQdA5QJ/fabric-api-0.100.7%2B1.21.jar;required;1
+Sodium;https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11%2Bmc1.21.jar;required;0
+Iris;https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar;required;0
+ClothConfigAPI;https://cdn.modrinth.com/data/9s6osm5g/versions/gY9NB5Rj/cloth-config-15.0.128-fabric.jar;required;1
+ModMenu;https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar;required;0
+TextPlaceholderAPI;https://cdn.modrinth.com/data/eXts2L7r/versions/cE5TczQr/placeholder-api-2.4.1%2B1.21.jar;required;1
+FabricKotlinAPI;https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar;required;1
+Lithium;https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar;required;0
+EntityCulling;https://cdn.modrinth.com/data/NNAgCjsB/versions/Bu3hSiJb/entityculling-fabric-1.6.6-mc1.21.jar;required;0
+DynamicFPS;https://cdn.modrinth.com/data/LQ3K71Q1/versions/hqTdt4bl/dynamic-fps-3.6.1%2Bminecraft-1.21.0-fabric.jar;required;0
+AppleSkin;https://cdn.modrinth.com/data/EsAfCjCV/versions/YxFxnyd4/appleskin-fabric-mc1.21-3.0.2.jar;required;0
+ReesesSodiumOptions;https://cdn.modrinth.com/data/Bh37bMuy/versions/6gZ19wc6/reeses_sodium_options-1.7.3%2Bmc1.21.jar;required;0
+SodiumExtra;https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7%2Bmc1.21.jar;required;0
+Indium;https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar;required;0
+FerriteCore;https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar;required;0
+CameraUtils;https://cdn.modrinth.com/data/rrwQMaWQ/versions/3mE4jMR1/camerautils-fabric-1.21-1.0.12.jar;required;0
+AmbientSounds;https://cdn.modrinth.com/data/fM515JnW/versions/TWIsleX6/AmbientSounds_FABRIC_v6.0.5_mc1.21.jar;required;0
+#cosmetics ui
+Blur;https://cdn.modrinth.com/data/NK39zBp2/versions/4stUfJpY/blur-4.1.0.jar;Cosmetics UI;0
+CheatHead;https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9OZ8YLAj/chat_heads-0.12.7-fabric-1.21.jar;Cosmetics UI;0
+#cosmetics IG
+Continuity;https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar;Cosmetics IG;0
+Falling Leaves;https://cdn.modrinth.com/data/WhbRG4iK/versions/HtuOat2a/fallingleaves-1.16.1%2B1.21.jar;Cosmetics IG;0
+BetterF3;https://cdn.modrinth.com/data/8shC1gFX/versions/sXO3idkS/BetterF3-11.0.1-Fabric-1.21.jar;Cosmetics IG;0
+RyoamicLights;https://cdn.modrinth.com/data/reCfnRvJ/versions/lSVpt79H/RyoamicLights-fabric-0.2.9%2Bmc1.21.jar;required;0
+ObsidianUiAPI;https://cdn.modrinth.com/data/E0L8mfJZ/versions/Yt9IWzuL/ObsidianUI-fabric-0.2.7%2Bmc1.21.jar;required;1
+* groups
+#name;impact
+Cosmetics UI;0
+Cosmetics IG;1
